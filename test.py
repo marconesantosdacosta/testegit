@@ -1,4 +1,5 @@
-print('bom dia')d
+print('bom dia')
 print ('boa tarde')
 print ('boa')
 print ('noite ')
+print ('brasil')
